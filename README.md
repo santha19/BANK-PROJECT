@@ -2,9 +2,12 @@
 Manual Testing - Bank Project 
 
 Project name	BANK PROJECT
+
 Module	      Login, Home page, New customer, Edit customer, Delete customer, New account, Edit account,                  Executed by	sk	
-              Delete account, Mini statement, Customised statement, Logout					                                           			
-Create try	  Santhakumar D					                                                                                      Executed date	06/19/2023		
+              Delete account, Mini statement, Customised statement, Logout			
+              
+Create try	  Santhakumar D					                                                                                      Executed date	06/19/2023	
+
 Created date	06/19/2023
 
 In This Bank Project , 
